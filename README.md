@@ -43,7 +43,7 @@ A modern, responsive gym website designed to showcase your fitness center's offe
 
 ## 📝Note it down
 
-here, I am not uploading all the photos in the gallery because all my images are in high quality and facing issues on github... so go to the gallery.html page and drag and drop the photos according to the path...!!
+here, I am not uploading all the photos & vedio in the gallery because all my images are in high quality and facing issues on github... so go to the gallery.html page and drag and drop the photos according to the path...!!
 
 ## 🖼️ Screenshots
 
