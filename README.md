@@ -51,6 +51,15 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 - Phone: +91 9925242423
 - Location: Dindoli, Surat
 
+
+<h2>📬 Contact</h2>
+
+Feel free to reach me through the below handles if you'd like to contact me.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-pokharkar/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.pokharkar/)
+
+
 ## 📄 License
 
 This project is open source and available under the MIT License.
