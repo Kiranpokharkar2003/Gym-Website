@@ -3,7 +3,7 @@
 A modern, responsive gym website built with HTML, CSS, Bootstrap, and JavaScript.
 
 ## 🔗 Live Demo
-[View Live Website](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
+[View Live Website](https://kiranpokharkar2003.github.io/Gym-Website/)
 
 ## 📸 Screenshots
 
