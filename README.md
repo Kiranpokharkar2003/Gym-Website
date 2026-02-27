@@ -8,16 +8,16 @@ A modern, responsive gym website built with HTML, CSS, Bootstrap, and JavaScript
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/homePage_1.png)
 
 ### About Page
-![About Page](screenshots/about.png)
+![About Page](screenshots/aboutPage_2.png)
 
 ### Gallery Page
-![Gallery Page](screenshots/gallery.png)
+![Gallery Page](screenshots/Gallery.png)
 
 ### Contact Page
-![Contact Page](screenshots/contact.png)
+![Contact Page](screenshots/Contact.png)
 
 ## 🚀 Features
 
